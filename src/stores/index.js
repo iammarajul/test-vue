@@ -1,5 +1,5 @@
+import {createStore} from 'vuex';
 import _ from 'lodash';
-import { createStore } from 'vuex';
 
 // Create a new store instance.
 const store = createStore({

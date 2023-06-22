@@ -5,10 +5,8 @@ import "primevue/resources/primevue.min.css";
 import "primevue/resources/themes/lara-light-indigo/theme.css";
 import { createApp } from 'vue';
 import App from './App.vue';
-import "./assets/main.css";
+import "./assets/style.css";
 import store from './stores';
-
-
 
 
 
